@@ -1,0 +1,4 @@
+project: PROJECT
+target: unrar_fuzzer
+cmds:
+- cmd: /out/unrar_fuzzer
